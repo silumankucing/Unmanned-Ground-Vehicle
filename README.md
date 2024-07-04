@@ -1,8 +1,9 @@
 **UGV SCRAM (X1V3)** <br>
 
-Security Camera and Arm Manipulator Unmanned Ground vehicle, developed from X1V2 with extended case, arm manipulator module and camera mast. I build this personal project used as platform for learning about robotics, reinforcement learning, computer vision and autonomous vehicle and navigation.<br>
+Security Camera and Arm Manipulator Unmanned Ground vehicle, developed from X1V2 with extended case, arm manipulator module and camera mast. I've been building this personal project used as platform for learning about robotics, reinforcement learning, computer vision and autonomous vehicle and navigation.<br>
 
-tech stack used <br>
+Tech stack used <br>
+
 Hardware :
 - Raspberry Pi 4 <br>
 - Arduino Uno <br>
@@ -15,7 +16,7 @@ Software :
 Mechanical and Structural : <br>
 - 3D Printed PLA/ABS <br>
 
-Design tools :
+Design Tool :
 - SOLIDWORKS 2022 (3D Modeling)
 - ANSYS (Structural Simulation)
 - Keyshot (Rendering)
