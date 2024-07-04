@@ -17,3 +17,11 @@ Mechanical and Structural : <br>
 - 3D Printed PLA/ABS <br>
 
 for more detail parts and components, see at product manufacturing information (PMI)
+
+Images : <br>
+
+![Uploading Screenshot 2024-07-04 194404.png…]()
+
+<br>
+
+![Uploading Screenshot 2024-07-04 194442.png…]()
