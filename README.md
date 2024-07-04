@@ -23,6 +23,7 @@ Design Tool :
 - Draw.io (Schematics)
 - KiCAD (EDA)
 - Matlab (Control Dashboard)
+- Arduino IDE (Arduino Programming)
 
 for more detail parts and components, see at product manufacturing information (PMI)
 
