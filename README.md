@@ -16,6 +16,11 @@ Software :
 Mechanical and Structural : <br>
 - 3D Printed PLA/ABS <br>
 
+Design tools :
+- SOLIDWORKS 2022 (3D Modeling)
+- ANSYS (Structural Simulation)
+- Keyshot (Rendering)
+
 for more detail parts and components, see at product manufacturing information (PMI)
 
 Images : <br>
