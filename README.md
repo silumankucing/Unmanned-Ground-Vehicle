@@ -1,4 +1,4 @@
-**UGV SCRAM (X1V3)** <br>
+**UGV Legion (X1V3)** <br>
 
 UGV Legion, developed from X1V2 with extended case, arm manipulator module and camera mast. I've been building this personal project used as platform for learning about robotics, reinforcement learning, computer vision and autonomous vehicle and navigation.<br>
 
