@@ -20,6 +20,9 @@ Design Tool :
 - SOLIDWORKS 2022 (3D Modeling)
 - ANSYS (Structural Simulation)
 - Keyshot (Rendering)
+- Draw.io (Schematics)
+- KiCAD (EDA)
+- Matlab (Control Dashboard)
 
 for more detail parts and components, see at product manufacturing information (PMI)
 
