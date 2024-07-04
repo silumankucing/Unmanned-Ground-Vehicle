@@ -23,6 +23,10 @@ Design Tool :
 
 for more detail parts and components, see at product manufacturing information (PMI)
 
+Schematics :
+
+![image](https://github.com/kucingkuro/UGV-Legion/assets/112769418/ea6788ab-8e7a-4876-bf48-0ae1c31c3438)
+
 Images : <br>
 
 ![Screenshot 2024-07-04 194404](https://github.com/kucingkuro/UGV-SCRAM/assets/112769418/cfcff33a-20da-4a2f-a6e0-670555c3cdde)
@@ -31,4 +35,7 @@ Images : <br>
 
 ![Screenshot 2024-07-04 194442](https://github.com/kucingkuro/UGV-SCRAM/assets/112769418/125055c1-337a-4900-aebf-a291c502a218)
 
+Previous version : <br>
+UGV X1V2 <br>
 
+![Screenshot 2024-05-04 083916](https://github.com/kucingkuro/UGV-Legion/assets/112769418/299c9100-3c05-4979-8c9e-f888231a476f)
