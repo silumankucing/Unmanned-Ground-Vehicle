@@ -16,4 +16,4 @@ Software :
 Mechaical and Manufacturing : <br>
 3D Printed PLA/ABS <br>
 
-for more detail part and component, see at product manufacturing information (PMI)
+for more detail parts and components, see at product manufacturing information (PMI)
