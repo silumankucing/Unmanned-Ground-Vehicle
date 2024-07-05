@@ -1,6 +1,6 @@
 **UGV Legion (X1V3)** <br>
 
-UGV Legion, developed from X1V2 with extended case, arm manipulator module and camera mast. I've been building this personal project used as platform for learning about robotics, reinforcement learning, computer vision and autonomous vehicle and navigation.<br>
+Developed from X1V2 with extended case, equipped with arm manipulator module and camera mast. I've been building this personal project used as platform for learning about robotics, reinforcement learning, computer vision and autonomous vehicle and navigation.<br>
 
 Tech stack used <br>
 
@@ -38,8 +38,3 @@ Images : <br>
 <br>
 
 ![Screenshot 2024-07-04 194442](https://github.com/kucingkuro/UGV-SCRAM/assets/112769418/125055c1-337a-4900-aebf-a291c502a218)
-
-Previous version : <br>
-UGV X1V2 <br>
-
-![Screenshot 2024-05-04 083916](https://github.com/kucingkuro/UGV-Legion/assets/112769418/299c9100-3c05-4979-8c9e-f888231a476f)
