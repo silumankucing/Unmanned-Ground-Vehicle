@@ -31,6 +31,10 @@ Schematics :
 
 ![image](https://github.com/kucingkuro/UGV-Legion/assets/112769418/ea6788ab-8e7a-4876-bf48-0ae1c31c3438)
 
+Control Dashboard
+
+![dashboard](https://github.com/kucingkuro/UGV-Legion/assets/112769418/8544cdd0-9356-4803-bf3a-e10adaa89cf1)
+
 Images : <br>
 
 ![Screenshot 2024-07-04 194404](https://github.com/kucingkuro/UGV-SCRAM/assets/112769418/cfcff33a-20da-4a2f-a6e0-670555c3cdde)
