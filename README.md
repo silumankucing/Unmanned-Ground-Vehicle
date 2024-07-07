@@ -1,4 +1,4 @@
-**UGV Legion (X1V3)** <br>
+**UGV Ranger (X1V3)** <br>
 
 Developed from X1V2 with extended case, equipped with arm manipulator module and camera mast. I've been building this personal project used as platform for learning about robotics, reinforcement learning, computer vision and autonomous vehicle and navigation.<br>
 
