@@ -13,7 +13,7 @@ Software :
 - Python <br>
 - Matlab <br>
 
-Mechanical and Structural : <br>
+Structural : <br>
 - 3D Printed PLA/ABS <br>
 
 Design Tool :
