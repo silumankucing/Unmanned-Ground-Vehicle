@@ -1,4 +1,4 @@
-**UGV Legion (X1V3)** <br>
+**UGV Ranger (X1V3)** <br>
 
 Developed from X1V2 with extended case, equipped with arm manipulator module and camera mast. I've been building this personal project used as platform for learning about robotics, reinforcement learning, computer vision and autonomous vehicle and navigation.<br>
 
@@ -13,7 +13,7 @@ Software :
 - Python <br>
 - Matlab <br>
 
-Mechanical and Structural : <br>
+Structural : <br>
 - 3D Printed PLA/ABS <br>
 
 Design Tool :
@@ -42,3 +42,9 @@ Images : <br>
 <br>
 
 ![Screenshot 2024-07-04 194442](https://github.com/kucingkuro/UGV-SCRAM/assets/112769418/125055c1-337a-4900-aebf-a291c502a218)
+
+Archieved : X1V1
+Files
+
+Archieved : X1V2
+Files
