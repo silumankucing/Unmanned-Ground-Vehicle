@@ -1,8 +1,6 @@
 **UGV Ranger (X1V3)** <br>
 
-Developed from X1V2 with extended case, equipped with arm manipulator module and camera mast. I've been building this personal project used as platform for learning about robotics, reinforcement learning, computer vision and autonomous vehicle and navigation.<br>
-
-Tech stack used <br>
+UGV Ranger is 6x6 mobile arm robotic platform. I've been building this personal project used as platform for learning about robotics, reinforcement learning, computer vision and autonomous vehicle and navigation.<br>
 
 Hardware :
 - Raspberry Pi 4 <br>
