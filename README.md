@@ -1,6 +1,6 @@
 **UGV Ranger (X1V3)** <br>
 
-UGV Ranger (X1V3) is mobile arm robotic platform. I've been building this personal project used as platform for learning about robotics, reinforcement learning, computer vision and autonomous vehicle and navigation.<br>
+UGV Ranger is mobile arm robotic platform. I've been building this personal project used as platform for learning about robotics, reinforcement learning, computer vision and autonomous vehicle and navigation.<br>
 
 Hardware :
 - Raspberry Pi 4 <br>
