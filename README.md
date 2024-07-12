@@ -39,8 +39,6 @@ Images : <br>
 
 <br>
 
-![Screenshot 2024-07-04 194442](https://github.com/kucingkuro/UGV-SCRAM/assets/112769418/125055c1-337a-4900-aebf-a291c502a218)
-
 Archieved : X1V1
 Files
 
