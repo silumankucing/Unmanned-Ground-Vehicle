@@ -35,7 +35,7 @@ Control Dashboard
 
 Images : <br>
 
-![Screenshot 2024-07-04 194404](https://github.com/kucingkuro/UGV-SCRAM/assets/112769418/cfcff33a-20da-4a2f-a6e0-670555c3cdde)
+![Screenshot 2024-07-13 021719](https://github.com/user-attachments/assets/74d54baa-1d0a-45e5-ba16-ea8a149effe8)
 
 <br>
 
