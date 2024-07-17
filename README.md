@@ -12,7 +12,7 @@ Software :
 - Matlab <br>
 
 Structural : <br>
-- 3D Printed PLA/ABS <br>
+- 3D Printed PLA <br>
 
 Design Tool :
 - SOLIDWORKS 2022 (3D Modeling)
