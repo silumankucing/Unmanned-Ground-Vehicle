@@ -35,12 +35,4 @@ Control Dashboard
 
 Images : <br>
 
-![Screenshot 2024-07-13 021719](https://github.com/user-attachments/assets/74d54baa-1d0a-45e5-ba16-ea8a149effe8)
-
-<br>
-
-Archieved : X1V1
-Files
-
-Archieved : X1V2
-Files
+![Screenshot 2024-07-25 130019](https://github.com/user-attachments/assets/aab57174-61e5-4946-91a1-ede65f05ae05)
