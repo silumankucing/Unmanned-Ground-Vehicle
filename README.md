@@ -16,6 +16,7 @@ Hardware :
 - LiPo Battery
 - Step Down 5V Module
 - Servo 9SG
+- Motor Driver L298N
 
 Software :
 - Python <br>
