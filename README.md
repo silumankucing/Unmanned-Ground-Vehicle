@@ -12,7 +12,9 @@ Hardware :
 - Vibration Module
 - IMU62000
 - 5V DC Motor and Wheel
-- Servo 
+- Servo
+- LiPo Battery
+- Step Down 5V Module
 
 Software :
 - Python <br>
