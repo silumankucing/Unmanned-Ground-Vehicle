@@ -17,10 +17,12 @@ Hardware :
 - Step Down 5V Module
 - Servo 9SG
 - Motor Driver L298N
+- Limit Switch
 
 Software :
 - Python <br>
 - Ubuntu ARM (OS) <br>
+- Arduino Language
 
 Structural : <br>
 - PLA <br>
