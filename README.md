@@ -2,7 +2,7 @@
 
 UGV Ranger is 6x6 mobile arm manipulator robotic platform. I've been building this personal project used as platform for learning about robotics, reinforcement learning, computer vision and autonomous vehicle and navigation.<br>
 
-#Hardware :
+*Hardware*
 - Raspberry Pi 4 <br>
 - Arduino Uno <br>
 - Arduino Nano <br>
@@ -20,16 +20,16 @@ UGV Ranger is 6x6 mobile arm manipulator robotic platform. I've been building th
 - Limit Switch
 - Ultrasonic Module
 
-#Software :
+*Software*
 - Python <br>
 - Ubuntu ARM (OS) <br>
 - Arduino Language
 
-#Structural : <br>
+*Structural*
 - PLA <br>
 - ABS <br>
 
-#Design Tools :
+*Design Tools*
 - SOLIDWORKS 2022 (3D Modeling)
 - ANSYS (Structural Simulation)
 - Keyshot (Rendering)
