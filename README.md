@@ -15,6 +15,7 @@ Hardware :
 - Servo
 - LiPo Battery
 - Step Down 5V Module
+- Servo 9SG
 
 Software :
 - Python <br>
