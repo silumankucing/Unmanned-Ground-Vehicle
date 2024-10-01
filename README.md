@@ -1,4 +1,4 @@
-**Unmanned Ground Vehicle - Ranger** <br>
+**UNMANNED GROUND VEHICLE - RANGER** <br>
 
 UGV Ranger is 6x6 mobile arm manipulator robotic platform. I've been building this personal project used as platform for learning about robotics, reinforcement learning, computer vision and autonomous vehicle and navigation.<br>
 
