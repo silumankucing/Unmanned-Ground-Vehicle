@@ -1,21 +1,21 @@
 **UNMANNED GROUND VEHICLE - RANGER** <br>
 
-UGV Ranger is 6x6 mobile arm manipulator robotic platform. I've been building this personal project used as platform for learning about robotics, reinforcement learning, computer vision and autonomous vehicle and navigation.<br>
+UGV Ranger is 6x6 mobile arm manipulator robotic platform. I've been building this personal project used as platform for learning about robotics, reinforcement learning, computer vision and autonomous systems<br>
 
 *Hardware*
 - Raspberry Pi 4 <br>
 - Arduino Uno <br>
 - Arduino Nano <br>
 - Themperature Sensor
-- 5P Camera Logitech
+- 5MP Camera Logitech
 - GPS Module
 - Vibration Module
 - IMU62000
-- 5V DC Motor and Wheel
-- Servo
-- LiPo Battery
-- Step Down 5V Module
+- 5V DC Motor and 3 Inch Wheel
+- Servo D8120
 - Servo 9SG
+- LiPo Battery
+- Step Down 5V
 - Motor Driver L298N
 - Limit Switch
 - Ultrasonic Module
