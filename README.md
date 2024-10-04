@@ -1,25 +1,39 @@
-**UGV Ranger (X1V3)** <br>
+**UNMANNED GROUND VEHICLE - RANGER** <br>
 
-UGV Ranger is 6x6 mobile arm robotic platform. I've been building this personal project used as platform for learning about robotics, reinforcement learning, computer vision and autonomous vehicle and navigation.<br>
+UGV Ranger is 6x6 mobile arm manipulator robotic platform. I've been building this personal project used as platform for learning about robotics, reinforcement learning, computer vision and autonomous systems<br>
 
-Hardware :
+*Hardware*
 - Raspberry Pi 4 <br>
 - Arduino Uno <br>
 - Arduino Nano <br>
+- Themperature Sensor
+- 5MP Camera Logitech
+- GPS Module
+- Vibration Module
+- IMU62000
+- 5V DC Motor and 3 Inch Wheel
+- Servo D8120
+- Servo 9SG
+- LiPo Battery
+- Step Down 5V
+- Motor Driver L298N
+- Limit Switch
+- Ultrasonic Module
 
-Software :
+*Software*
 - Python <br>
-- Matlab <br>
+- Ubuntu ARM (OS) <br>
+- Arduino Language
 
-Structural : <br>
-- 3D Printed PLA <br>
+*Structural*
+- PLA <br>
+- ABS <br>
 
-Design Tool :
+*Design Tools*
 - SOLIDWORKS 2022 (3D Modeling)
 - ANSYS (Structural Simulation)
 - Keyshot (Rendering)
 - Draw.io (Schematics)
-- KiCAD (EDA)
 - Matlab (Control Dashboard)
 - Arduino IDE (Arduino Programming)
 
