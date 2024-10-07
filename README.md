@@ -39,6 +39,6 @@
 
 *IMAGES*
 
-![Screenshot 2024-07-25 130019](https://github.com/user-attachments/assets/aab57174-61e5-4946-91a1-ede65f05ae05)
+![351981200-aab57174-61e5-4946-91a1-ede65f05ae05](https://github.com/user-attachments/assets/735ced79-5b02-4463-bd6d-d1ebf2cc051f)
 ![image](https://github.com/kucingkuro/UGV-Legion/assets/112769418/ea6788ab-8e7a-4876-bf48-0ae1c31c3438)
 ![dashboard](https://github.com/kucingkuro/UGV-Legion/assets/112769418/8544cdd0-9356-4803-bf3a-e10adaa89cf1)
