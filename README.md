@@ -37,16 +37,8 @@ UGV Ranger is 6x6 mobile arm manipulator robotic platform. I've been building th
 - Matlab (Control Dashboard)
 - Arduino IDE (Arduino Programming)
 
-for more detail parts and components, see at product manufacturing information (PMI)
-
-Schematics :
+*IMAGES*
 
 ![image](https://github.com/kucingkuro/UGV-Legion/assets/112769418/ea6788ab-8e7a-4876-bf48-0ae1c31c3438)
-
-Control Dashboard
-
 ![dashboard](https://github.com/kucingkuro/UGV-Legion/assets/112769418/8544cdd0-9356-4803-bf3a-e10adaa89cf1)
-
-Images : <br>
-
 ![Screenshot 2024-07-25 130019](https://github.com/user-attachments/assets/aab57174-61e5-4946-91a1-ede65f05ae05)
