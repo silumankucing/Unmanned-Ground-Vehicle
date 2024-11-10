@@ -21,21 +21,20 @@
 - Ultrasonic Module
 
 *Software*
-- Python <br>
-- Ubuntu ARM (OS) <br>
+- Python
+- Ubuntu ARM (OS)
 - Arduino Language
-
 *Structural*
 - PLA <br>
-- ABS <br>
+- ABS (Optional) <br>
 
 *Design Tools*
-- SOLIDWORKS 2022 (3D Modeling)
+- SOLIDWORKS 2022(3D Modeling)
 - ANSYS (Structural Simulation)
-- Keyshot (Rendering)
+- Twinmotion (Rendering)
 - Draw.io (Schematics)
-- Matlab (Control Dashboard)
-- Arduino IDE (Arduino Programming)
+- Scilab (Control Dashboard)
+- Visual Studio Code (Arduino Programming)
 
 *IMAGES*
 
