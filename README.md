@@ -1,8 +1,6 @@
-**UNMANNED GROUND VEHICLE - RANGER** <br>
+Open source unmanned ground vehicle with arm manipulator built for learning purposes about robotics, computer vision and autonomous and R/C systems<br>
 
-6WD mobile arm manipulator robotic platform i've been building this personal project used as platform for learning about robotics, reinforcement learning, computer vision and autonomous systems<br>
-
-*Hardware*
+<ins>*Hardware*</ins>
 - Raspberry Pi 4 <br>
 - Arduino Uno <br>
 - Arduino Nano <br>
@@ -20,23 +18,14 @@
 - Limit Switch
 - Ultrasonic Module
 
-*Software*
+<ins>*Software*</ins>
+- Ubuntu ARM
+- ROS
 - Python
-- Ubuntu ARM (OS)
-- Arduino Language
-*Structural*
-- PLA <br>
-- ABS (Optional) <br>
+- Arduino
 
-*Design Tools*
-- SOLIDWORKS 2022(3D Modeling)
-- ANSYS (Structural Simulation)
-- Twinmotion (Rendering)
-- Draw.io (Schematics)
-- Scilab (Control Dashboard)
-- Visual Studio Code (Arduino Programming)
-
-*IMAGES*
+<ins>*Mechanical*</ins>
+- 3D printed PLA <br>
 
 ![351981200-aab57174-61e5-4946-91a1-ede65f05ae05](https://github.com/user-attachments/assets/735ced79-5b02-4463-bd6d-d1ebf2cc051f)
 ![image](https://github.com/kucingkuro/UGV-Legion/assets/112769418/ea6788ab-8e7a-4876-bf48-0ae1c31c3438)
