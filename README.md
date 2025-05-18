@@ -1,6 +1,9 @@
-Open source unmanned ground vehicle with arm manipulator built for learning purposes about robotics, computer vision and autonomous and R/C systems<br>
+UGV open source development with modular design<br>
 
-<ins>*Hardware*</ins>
+<ins>*Mechanical*</ins>
+- 3D printed PLA <br>
+
+<ins>*Electronic and Electrical*</ins>
 - Raspberry Pi 4 <br>
 - Arduino Uno <br>
 - Arduino Nano <br>
@@ -19,13 +22,10 @@ Open source unmanned ground vehicle with arm manipulator built for learning purp
 - Ultrasonic Module
 
 <ins>*Software*</ins>
-- Ubuntu ARM
+- Ubuntu
 - ROS
 - Python
 - Arduino
-
-<ins>*Mechanical*</ins>
-- 3D printed PLA <br>
 
 ![351981200-aab57174-61e5-4946-91a1-ede65f05ae05](https://github.com/user-attachments/assets/735ced79-5b02-4463-bd6d-d1ebf2cc051f)
 ![image](https://github.com/kucingkuro/UGV-Legion/assets/112769418/ea6788ab-8e7a-4876-bf48-0ae1c31c3438)
