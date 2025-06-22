@@ -16,6 +16,6 @@ Unmanned Ground Vehicle open source development<br>
 - MicroPython
 
 <ins>*Mechanical*</ins>
-- PLA <br>
+- PLA Plastic<br>
 
 ![image](https://github.com/user-attachments/assets/be9e1bb3-02ec-4111-b331-61c19d1e0bc1)
